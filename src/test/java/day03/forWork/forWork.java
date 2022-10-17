@@ -1,4 +1,4 @@
-package forWork;
+package day03.forWork;
 //import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;

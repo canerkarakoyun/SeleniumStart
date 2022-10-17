@@ -3,7 +3,7 @@ package day02;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class C01_Odev01 {
+public class C01_ForWork {
     public static void main(String[] args) {
         System.setProperty("webdriver.chrome.driver","src/resources/drivers/chromedriver.exe");
         WebDriver driver = new ChromeDriver();

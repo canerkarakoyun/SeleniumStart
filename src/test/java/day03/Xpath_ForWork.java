@@ -1,6 +1,6 @@
 package day03;
 
-public class Xpath_Odev {
+public class Xpath_ForWork {
      /*
     1-https://the-internet.herokuapp.com/add_remove_elements/ adresine gidin
     2- Add Element butonuna 10 kez basinız
